@@ -30,12 +30,12 @@ npm install
 Modifique o arquivo dbConnection.js configurando com suas informações do MySQL
 ```bash
 const connMySQL = function(){
-	return mysql.createConnection({
-			host : 'localhost',
-			user : '', // Modifique com o seu user do Workbench
-			password : '', // Modifique com a sua senha do Workbench
-			database : '' // Modifique com o nome que você declarou o seu banco no Workbench
-		});
+  return mysql.createConnection({
+    host : 'localhost',
+    user : '', // Modifique com o seu user do Workbench
+    password : '', // Modifique com a sua senha do Workbench
+    database : '' // Modifique com o nome que você declarou o seu banco no Workbench
+  });
 }
 ```
 
