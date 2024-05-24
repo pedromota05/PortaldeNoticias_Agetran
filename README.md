@@ -13,7 +13,7 @@
 ## 💻 Resumo
 
 Repositório para o protótipo de um portal de notícias para a Agetran, desenvolvido durante o meu ensino médio no curso de Técnico em Informática no IFMS - Campus Dourados. 
-Este projeto foi criado utilizando Node.js, Express, MySQL Workbench e Bootstrap para o front-end.
+Este projeto foi criado utilizando Node.js, Express, MySQL Workbench e para o front-end Bootstrap.
 
 
 ## ⚙️: Execução do Projeto
